@@ -1,4 +1,4 @@
-<h1>Bohdana Yankivska, aka Natsunoyo</h1>
+<h1>Bohdana Yankivska, aka Tereya</h1>
 A student of Vinnytsia National Technical University pursuing Computer Science. <br>
 A beginner in development and coding, working hard to achieve my dreams.<br><br>
 Hobbies: listening to music, drawing, photographing, stargazing, reading, gaming.<br>
